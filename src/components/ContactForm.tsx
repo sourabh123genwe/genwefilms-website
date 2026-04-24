@@ -74,7 +74,7 @@ export default function ContactForm() {
       emailjs
         .send(
           "Genwefilms_ai",
-          "template_y25973g",
+          "template_e0t9uqs",
           data,
           "pXm_36J49xPtTLhoq"
         )
