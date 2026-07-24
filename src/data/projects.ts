@@ -46,10 +46,10 @@ export const projects: Project[] = [
   {
     slug: "product-cgi-ads",
     title: "Product CGI Ads",
-    brand: "Lay's",
-    description: `Vibrant, loud, unapologetic. The concept was to let the product be the party. We choreographed the CGI around the music, not the other way around. Pre-production was about energy mapping, which beat hits when, what colour pops where. AI handled the renders. We handled the fun.`,
+    brand: "Pigeon",
+    description: `The brief was to make it fast-paced and culturally relevant for Gen Z, weaving the product naturally into everyday life. That's exactly the approach we took. To connect with Gen Z, realism matters even more. They're the first to spot AI slop, and that's the last thing we want associated with any brand we work with. Every frame was crafted to feel believable, cinematic, and grounded in reality.`,
     type: "AI Studio",
-    playbackId: "1tp8oqNv8j2eDLWA8DhiGw2MEVPonyOX7OsEqTYQH1c",
+    playbackId: "3Ut3PH4C00dANhw6NErONdaHYw642dABZvdfw9Lcaq01M",
     category: "ai-studio",
   },
 
