@@ -56,10 +56,10 @@ export const projects: Project[] = [
   {
     slug: "ai-films",
     title: "AI Short Films", // ✅ UPDATED
-    brand: "Dog's Years",
-    description: `A dog who lost his human. A cat who had no one. A cemetery where both found each other. We wrote this as a proper short film, with acts, silence and an ending that earns its emotion. Production was about restraint. No dialogue, no explanation. Post was purely music and pacing. AI was our cinematographer. The grief and warmth were written long before the first frame rendered.`,
+    brand: "1857: The Beginning",
+    description: `An empire that ruled. A people who resisted. A revolution that echoed through generations. We wrote this as a feature film, built around courage, sacrifice and unity. Production was about scale with soul. No empty spectacle, no shortcuts. Post was driven by music and pacing. AI was our cinematographer. Even after 169 years, the story of our brave soldiers remains relevant,a reminder that when people stand united against tyranny, a nation can never be broken.`,
     type: "AI Studio",
-    playbackId: "AgDWYkfWkSY54ilA9Ocjw5xNxTEWKT9Kb8eQZEO4ezI",
+    playbackId: "c4dz502ocPm47TiEbj5H43Sg00OIgq6rtZPf1Q5tFaILw",
     category: "ai-studio",
   },
 
