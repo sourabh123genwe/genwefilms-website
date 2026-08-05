@@ -49,7 +49,7 @@ export const projects: Project[] = [
     brand: "Pigeon",
     description: `The brief was to make it fast-paced and culturally relevant for Gen Z, weaving the product naturally into everyday life. That's exactly the approach we took. To connect with Gen Z, realism matters even more. They're the first to spot AI slop, and that's the last thing we want associated with any brand we work with. Every frame was crafted to feel believable, cinematic, and grounded in reality.`,
     type: "AI Studio",
-    playbackId: "5y65qy3gkWXLBeah4ie6bPBq6qeGMA4F3pFRm6q8KiE",
+    playbackId: "cNq02o5JGXBKpHkrm01h6d02U00902B1PehSR00YQSGSJ39LE",
     category: "ai-studio",
   },
 
@@ -59,7 +59,7 @@ export const projects: Project[] = [
     brand: "1857: The Beginning",
     description: `An empire that ruled. A people who resisted. A revolution that echoed through generations. We wrote this as a feature film, built around courage, sacrifice and unity. Production was about scale with soul. No empty spectacle, no shortcuts. Post was driven by music and pacing. AI was our cinematographer. Even after 169 years, the story of our brave soldiers remains relevant,a reminder that when people stand united against tyranny, a nation can never be broken.`,
     type: "AI Studio",
-    playbackId: "eLlltbJiU6M6YrLo9ihZ9ibWxaZIDD45rl3NfvDg9T8",
+    playbackId: "8bi7WVbJ9nCx02sAtnQG7g5ksNf02NH7RhBiRhtL3zG7E",
     category: "ai-studio",
   },
 
@@ -96,7 +96,7 @@ We obsessed over every detail, the jodhpuri attire in the final frame, the silen
     brand: "Span Floors",
     description: `This project involved complex action sequences where accurate physics was critical. Without it, the visuals would have felt like AI slop. We focused heavily on realism and storytelling. The objective was simple: a family spending quality time in their farmhouse. The home already looked luxurious, but it still felt incomplete. As wood became part of the space, it brought warmth, character, and the soul that truly made the house feel alive.`,
     type: "Cinematic Product Film",
-    playbackId: "0278wOmRZRLRdxhLiK00XsfcWhHh7vGjCRUTp3czQ6414",
+    playbackId: "2PbvKn0000WR4bzAzgqNDK010202X00a01qBwPkANVsJlYbDPE",
     featured: true,
     category: "work",
   },
