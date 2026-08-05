@@ -55,7 +55,7 @@ export const projects: Project[] = [
 
   {
     slug: "ai-films",
-    title: "AI Short Films", // ✅ UPDATED
+    title: "AI Films", // ✅ UPDATED
     brand: "1857: The Beginning",
     description: `An empire that ruled. A people who resisted. A revolution that echoed through generations. We wrote this as a feature film, built around courage, sacrifice and unity. Production was about scale with soul. No empty spectacle, no shortcuts. Post was driven by music and pacing. AI was our cinematographer. Even after 169 years, the story of our brave soldiers remains relevant,a reminder that when people stand united against tyranny, a nation can never be broken.`,
     type: "AI Studio",
@@ -93,10 +93,10 @@ We obsessed over every detail, the jodhpuri attire in the final frame, the silen
   {
     slug: "vedica-water",
     title: "Vedica",
-    brand: "Bisleri Vedica",
-    description: `What does home taste like? We wrote a story around a pahadi father living in a city that was never his. The concept came first, the visuals followed. We built each scene around memory and contrast. Sound design carried the emotion across the edit. AI was the brush. The painting was always ours.`,
+    brand: "Span Floors",
+    description: `This project involved complex action sequences where accurate physics was critical. Without it, the visuals would have felt like AI slop. We focused heavily on realism and storytelling. The objective was simple: a family spending quality time in their farmhouse. The home already looked luxurious, but it still felt incomplete. As wood became part of the space, it brought warmth, character, and the soul that truly made the house feel alive.`,
     type: "Cinematic Product Film",
-    playbackId: "rfiqbbKouLlOomBfiyX5MTrK00BsbU3e600xkVqqfYHUA",
+    playbackId: "x6QfoIORpPgmf815Dg7Ti1C02MPxS017R4UrTW2Rg01fxk",
     featured: true,
     category: "work",
   },
