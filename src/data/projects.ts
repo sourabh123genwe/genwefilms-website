@@ -91,8 +91,8 @@ We obsessed over every detail, the jodhpuri attire in the final frame, the silen
   },
 
   {
-    slug: "vedica-water",
-    title: "Vedica",
+    slug: "span-floors",
+    title: "Span Floors",
     brand: "Span Floors",
     description: `This project involved complex action sequences where accurate physics was critical. Without it, the visuals would have felt like AI slop. We focused heavily on realism and storytelling. The objective was simple: a family spending quality time in their farmhouse. The home already looked luxurious, but it still felt incomplete. As wood became part of the space, it brought warmth, character, and the soul that truly made the house feel alive.`,
     type: "Cinematic Product Film",
