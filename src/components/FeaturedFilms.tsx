@@ -8,7 +8,7 @@ import LiquidChrome from "./LiquidChrome";
 
 function getBrandStyles(title: string) {
   switch (title) {
-    case "Vedica":
+    case "Span Floors":
       return {
         glow: "from-blue-400/40 via-cyan-300/10 to-transparent",
         border: "border-blue-400/30",
@@ -145,7 +145,7 @@ export default function FeaturedFilms() {
 
   const orderedProjects = [
     "tanishq-jewellery",
-    "vedica-water",
+    "span-floors",
     "royal-enfield",
   ]
     .map((slug) => featuredProjects.find((p) => p.slug === slug))
