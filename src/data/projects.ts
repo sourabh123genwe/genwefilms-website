@@ -53,16 +53,6 @@ export const projects: Project[] = [
     category: "ai-studio",
   },
 
-  {
-    slug: "ai-films",
-    title: "AI Films", // ✅ UPDATED
-    brand: "1857: The Beginning",
-    description: `An empire that ruled. A people who resisted. A revolution that echoed through generations. We wrote this as a feature film, built around courage, sacrifice and unity. Production was about scale with soul. No empty spectacle, no shortcuts. Post was driven by music and pacing. AI was our cinematographer. Even after 169 years, the story of our brave soldiers remains relevant,a reminder that when people stand united against tyranny, a nation can never be broken.`,
-    type: "AI Studio",
-    playbackId: "8bi7WVbJ9nCx02sAtnQG7g5ksNf02NH7RhBiRhtL3zG7E",
-    category: "ai-studio",
-  },
-
 {
     slug: "vedica-water",
     title: "Vedica", // ✅ UPDATED
@@ -70,6 +60,16 @@ export const projects: Project[] = [
     description: `What does home taste like? We wrote a story around a pahadi father living in a city that was never his. The concept came first, the visuals followed. We built each scene around memory and contrast. Sound design carried the emotion across the edit. AI was the brush. The painting was always ours.`,
     type: "AI Studio",
     playbackId: "rfiqbbKouLlOomBfiyX5MTrK00BsbU3e600xkVqqfYHUA",
+    category: "ai-studio",
+  },
+
+  {
+    slug: "ai-films",
+    title: "AI Films", // ✅ UPDATED
+    brand: "1857: The Beginning",
+    description: `An empire that ruled. A people who resisted. A revolution that echoed through generations. We wrote this as a feature film, built around courage, sacrifice and unity. Production was about scale with soul. No empty spectacle, no shortcuts. Post was driven by music and pacing. AI was our cinematographer. Even after 169 years, the story of our brave soldiers remains relevant,a reminder that when people stand united against tyranny, a nation can never be broken.`,
+    type: "AI Studio",
+    playbackId: "8bi7WVbJ9nCx02sAtnQG7g5ksNf02NH7RhBiRhtL3zG7E",
     category: "ai-studio",
   },
 
