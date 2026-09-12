@@ -55,7 +55,7 @@ export const projects: Project[] = [
 
 {
     slug: "vedica-water",
-    title: "Vedica", // ✅ UPDATED
+    title: "Conceptual Storytelling", // ✅ UPDATED
     brand: "Bisleri Vedica",
     description: `What does home taste like? We wrote a story around a pahadi father living in a city that was never his. The concept came first, the visuals followed. We built each scene around memory and contrast. Sound design carried the emotion across the edit. AI was the brush. The painting was always ours.`,
     type: "AI Studio",
