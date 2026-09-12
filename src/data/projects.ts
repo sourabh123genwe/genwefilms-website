@@ -66,7 +66,7 @@ export const projects: Project[] = [
   {
     slug: "ai-films",
     title: "AI Films", // ✅ UPDATED
-    brand: "1857: The Beginning",
+    brand: "The Indian Revolt",
     description: `An empire that ruled. The people who resisted. A revolution that echoed through generations. We wrote this as a feature film, built around courage, sacrifice and unity. Production was about scale with soul. No empty spectacle, no shortcuts. Post was driven by music and pacing. AI was our cinematographer. Even after 169 years, the story of our brave soldiers remains relevant,a reminder that when people stand united against tyranny, a nation can never be broken.`,
     type: "AI Studio",
     playbackId: "8bi7WVbJ9nCx02sAtnQG7g5ksNf02NH7RhBiRhtL3zG7E",
