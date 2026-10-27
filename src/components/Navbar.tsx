@@ -15,11 +15,11 @@ export default function Navbar() {
 
   return (
     <>
-      {/* NAVBAR */}
-      <nav className="fixed top-4 left-0 right-0 z-50 px-4 md:px-8 lg:px-16 flex items-center justify-between pointer-events-none">
+      {/* NAVBAR — attached to top, solid black */}
+      <nav className="fixed top-0 left-0 right-0 z-50 px-4 md:px-8 lg:px-16 flex items-center justify-between pointer-events-none bg-black">
 
-        {/* Glass background */}
-        <div className="absolute inset-0 bg-white/[0.04] backdrop-blur-2xl border border-white/10 rounded-full mx-2 md:mx-4 lg:mx-8 pointer-events-auto" />
+        {/* Black background bar */}
+        <div className="absolute inset-0 bg-black pointer-events-auto" />
 
         <div className="relative w-full flex items-center justify-between py-2 md:py-2 px-4 md:px-6 pointer-events-auto">
 
