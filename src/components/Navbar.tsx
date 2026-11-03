@@ -38,7 +38,7 @@ export default function Navbar() {
               <Link
                 key={link.name}
                 to={link.path}
-                className="text-sm tracking-wide text-white/70 hover:text-white transition-colors duration-300 font-body"
+                className="text-sm tracking-wide text-white/70 hover:text-white transition-colors duration-300 font-heading"
               >
                 {link.name}
               </Link>
