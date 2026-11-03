@@ -22,7 +22,7 @@ export default function Connect() {
       {/* BACKGROUND */}
       <div className="absolute inset-0 -z-10">
         <Aurora
-          colorStops={["#7cff67", "#B497CF", "#5227FF"]}
+          colorStops={["#8F1E0D", "#F7F0DF", "#5C100A"]}
           blend={0.5}
           amplitude={1.0}
           speed={0.5}
@@ -30,7 +30,7 @@ export default function Connect() {
       </div>
 
       {/* DARK OVERLAY */}
-      <div className="absolute inset-0 -z-10 bg-gradient-to-b from-black/20 via-black/50 to-[#0a0a0a]" />
+      <div className="absolute inset-0 -z-10 bg-gradient-to-b from-[#090909]/20 via-[#5C100A]/50 to-[#090909]" />
 
       {/* CONTENT */}
       <main className="relative z-10">
@@ -68,9 +68,12 @@ export default function Connect() {
               <div className="text-white/30 text-[10px] tracking-[0.35em] uppercase">
                 Direct
               </div>
-              <div className="text-sm text-white/70 break-all hover:text-white transition">
+              <a
+                href="mailto:contact@genwefilms.com"
+                className="text-sm text-white/70 break-all hover:text-white transition underline underline-offset-4"
+              >
                 contact@genwefilms.com
-              </div>
+              </a>
             </div>
 
             {/* Social */}
@@ -78,9 +81,14 @@ export default function Connect() {
               <div className="text-white/30 text-[10px] tracking-[0.35em] uppercase">
                 Updates
               </div>
-              <div className="text-sm text-white/70 tracking-wide">
+              <a
+                href="https://www.instagram.com/genwefilms_ai/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-sm text-white/70 tracking-wide hover:text-white transition underline underline-offset-4"
+              >
                 @genwefilms_ai
-              </div>
+              </a>
             </div>
 
           </div>
